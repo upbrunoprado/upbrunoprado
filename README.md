@@ -19,21 +19,26 @@ Sou desenvolvedor com foco em **Flutter Web**, **FastAPI**, **IA aplicada**, **e
 
 ---
 
-## 📊 Gráficos profissionais (funcionam no GitHub)
-
-### 🔥 Stats gerais
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brunopradoo&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopradoo&layout=compact&theme=tokyonight"/>
-</p>
-
-### ⚡ Streak
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=brunopradoo&theme=tokyonight&hide_border=false"/>
-</p>
-
 ---
 
+# 🌐 O que eu faço na prática
+
+🚀 **Desenvolvimento Web e Apps**  
+Criação de plataformas completas usando **Flutter Web**, **FastAPI**, **Supabase** e automações com IA.
+
+📚 **Educação, tecnologia e robótica**  
+Materiais, formações e consultorias para escolas, professores e projetos maker — tudo alinhado à BNCC e às Competências Digitais.
+
+🤖 **IA aplicada ao dia a dia**  
+Assistentes, automações, análise de dados, processos inteligentes para educação e negócios.
+
+🏗 **Projetos para empreendedores**  
+Soluções simples e eficientes para pequenos negócios: sites, dashboards, ferramentas personalizadas e automação de tarefas.
+
+🎓 **Mentorias e formação**  
+Apoio para novos devs, projetos colaborativos e conteúdos estruturados na **AC Tech Academy**.
+
+---
 # 🧩 Meus Projetos
 
 ## 🟦 **AC TECH — minha startup**
